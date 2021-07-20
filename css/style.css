@@ -149,7 +149,7 @@ h3 {
   text-decoration: underline;
 }
 
-/* getting last div using pseudo selector */
+/* getting last div using pseudo selectors */
 .sub-header > div:last-of-type {
   justify-self: end;
   align-self: end;
